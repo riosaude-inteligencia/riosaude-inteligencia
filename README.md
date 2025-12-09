@@ -42,18 +42,15 @@ Somos responsáveis por desenvolver soluções analíticas, pipelines de dados, 
 
 ### 🔹 [Marlon Assis](https://github.com/marlonassisdv)  
 **Gerente de Equipe • UX/UI Designer**  
-![Marlon](https://github.com/marlonassisdv.png)
 
 ---
 
 ### 🔹 [Breno Ribeiro](https://github.com/brenorial)  
 **Engenheiro de Dados • Python/Full Stack**  
-![Breno](https://github.com/brenorial.png)
 
 ---
 
 ### 🔹 [Lucas Carvalho](https://github.com/LucasCarvalho456)  
 **Analista de Dados • Power BI/SQL**  
-![Lucas](https://github.com/LucasCarvalho456.png)
 
 
